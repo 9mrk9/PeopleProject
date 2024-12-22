@@ -1,0 +1,11 @@
+C:\Users\Márk\Desktop\prog\SzoftTesztBeadando\PeopleProject\PeopleProject\bin\Debug\net8.0\PeopleProject.deps.json
+C:\Users\Márk\Desktop\prog\SzoftTesztBeadando\PeopleProject\PeopleProject\bin\Debug\net8.0\PeopleProject.dll
+C:\Users\Márk\Desktop\prog\SzoftTesztBeadando\PeopleProject\PeopleProject\bin\Debug\net8.0\PeopleProject.pdb
+C:\Users\Márk\Desktop\prog\SzoftTesztBeadando\PeopleProject\PeopleProject\obj\Debug\net8.0\PeopleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Márk\Desktop\prog\SzoftTesztBeadando\PeopleProject\PeopleProject\obj\Debug\net8.0\PeopleProject.AssemblyInfoInputs.cache
+C:\Users\Márk\Desktop\prog\SzoftTesztBeadando\PeopleProject\PeopleProject\obj\Debug\net8.0\PeopleProject.AssemblyInfo.cs
+C:\Users\Márk\Desktop\prog\SzoftTesztBeadando\PeopleProject\PeopleProject\obj\Debug\net8.0\PeopleProject.csproj.CoreCompileInputs.cache
+C:\Users\Márk\Desktop\prog\SzoftTesztBeadando\PeopleProject\PeopleProject\obj\Debug\net8.0\PeopleProject.dll
+C:\Users\Márk\Desktop\prog\SzoftTesztBeadando\PeopleProject\PeopleProject\obj\Debug\net8.0\refint\PeopleProject.dll
+C:\Users\Márk\Desktop\prog\SzoftTesztBeadando\PeopleProject\PeopleProject\obj\Debug\net8.0\PeopleProject.pdb
+C:\Users\Márk\Desktop\prog\SzoftTesztBeadando\PeopleProject\PeopleProject\obj\Debug\net8.0\ref\PeopleProject.dll
